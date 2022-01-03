@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{76CAA552-0062-4B31-82F5-D0EA7A1E3F87}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HouseManagement1</RootNamespace>
+    <AssemblyName>HouseManagement1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="OwnerApart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OwnerApart.Designer.cs">
+      <DependentUpon>OwnerApart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OwnerHouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OwnerHouse.Designer.cs">
+      <DependentUpon>OwnerHouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminApart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminApart.Designer.cs">
+      <DependentUpon>AdminApart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminBooking.Designer.cs">
+      <DependentUpon>AdminBooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminHome.Designer.cs">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminHouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminHouse.Designer.cs">
+      <DependentUpon>AdminHouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminProfile.Designer.cs">
+      <DependentUpon>AdminProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DelegateCollection.cs" />
+    <Compile Include="OwnerHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OwnerHome.Designer.cs">
+      <DependentUpon>OwnerHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OwnerBookLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OwnerBookLog.Designer.cs">
+      <DependentUpon>OwnerBookLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OwnerProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OwnerProfile.Designer.cs">
+      <DependentUpon>OwnerProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RenterHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RenterHome.Designer.cs">
+      <DependentUpon>RenterHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RenterBookingHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RenterBookingHistory.Designer.cs">
+      <DependentUpon>RenterBookingHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RenterProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RenterProfile.Designer.cs">
+      <DependentUpon>RenterProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="OwnerApart.resx">
+      <DependentUpon>OwnerApart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OwnerHouse.resx">
+      <DependentUpon>OwnerHouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminApart.resx">
+      <DependentUpon>AdminApart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminBooking.resx">
+      <DependentUpon>AdminBooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminHome.resx">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminHouse.resx">
+      <DependentUpon>AdminHouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminProfile.resx">
+      <DependentUpon>AdminProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OwnerHome.resx">
+      <DependentUpon>OwnerHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OwnerBookLog.resx">
+      <DependentUpon>OwnerBookLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OwnerProfile.resx">
+      <DependentUpon>OwnerProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RenterHome.resx">
+      <DependentUpon>RenterHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RenterBookingHistory.resx">
+      <DependentUpon>RenterBookingHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RenterProfile.resx">
+      <DependentUpon>RenterProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HouseManagement1.DataLayer\HouseManagement1.DataLayer.csproj">
+      <Project>{b1e986fe-0f33-4e8d-b50d-8b3aad58db6d}</Project>
+      <Name>HouseManagement1.DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HouseManagement1.EntityLayer\HouseManagement1.EntityLayer.csproj">
+      <Project>{019f4b00-9673-4b74-95e6-caca67df1d82}</Project>
+      <Name>HouseManagement1.EntityLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HouseManagement1.FrameWorkLayer\HouseManagement1.FrameWorkLayer.csproj">
+      <Project>{0126c942-27ba-4486-a3e1-287ed2063c09}</Project>
+      <Name>HouseManagement1.FrameWorkLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HouseManagement1.RepositoryLayer\HouseManagement1.RepositoryLayer.csproj">
+      <Project>{9505329f-ae38-4602-a501-744b79cb4dcd}</Project>
+      <Name>HouseManagement1.RepositoryLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

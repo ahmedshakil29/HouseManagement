@@ -1,0 +1,15 @@
+E:\HouseManagement1\HouseManagement1.FrameWorkLayer\bin\Debug\HouseManagement1.FrameWorkLayer.dll
+E:\HouseManagement1\HouseManagement1.FrameWorkLayer\bin\Debug\HouseManagement1.FrameWorkLayer.pdb
+E:\HouseManagement1\HouseManagement1.FrameWorkLayer\obj\Debug\HouseManagement1.FrameWorkLayer.csprojResolveAssemblyReference.cache
+E:\HouseManagement1\HouseManagement1.FrameWorkLayer\obj\Debug\HouseManagement1.FrameWorkLayer.dll
+E:\HouseManagement1\HouseManagement1.FrameWorkLayer\obj\Debug\HouseManagement1.FrameWorkLayer.pdb
+E:\House management\9\HouseManagement1\HouseManagement1.FrameWorkLayer\bin\Debug\HouseManagement1.FrameWorkLayer.dll
+E:\House management\9\HouseManagement1\HouseManagement1.FrameWorkLayer\bin\Debug\HouseManagement1.FrameWorkLayer.pdb
+E:\House management\9\HouseManagement1\HouseManagement1.FrameWorkLayer\obj\Debug\HouseManagement1.FrameWorkLayer.csprojResolveAssemblyReference.cache
+E:\House management\9\HouseManagement1\HouseManagement1.FrameWorkLayer\obj\Debug\HouseManagement1.FrameWorkLayer.dll
+E:\House management\9\HouseManagement1\HouseManagement1.FrameWorkLayer\obj\Debug\HouseManagement1.FrameWorkLayer.pdb
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.FrameWorkLayer\bin\Debug\HouseManagement1.FrameWorkLayer.dll
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.FrameWorkLayer\bin\Debug\HouseManagement1.FrameWorkLayer.pdb
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.FrameWorkLayer\obj\Debug\HouseManagement1.FrameWorkLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.FrameWorkLayer\obj\Debug\HouseManagement1.FrameWorkLayer.dll
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.FrameWorkLayer\obj\Debug\HouseManagement1.FrameWorkLayer.pdb

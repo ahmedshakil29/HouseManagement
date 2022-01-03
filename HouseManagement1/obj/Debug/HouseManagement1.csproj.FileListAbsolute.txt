@@ -1,0 +1,9 @@
+c:\users\ullas\documents\visual studio 2013\Projects\HouseManagement1\HouseManagement1\bin\Debug\HouseManagement1.exe.config
+c:\users\ullas\documents\visual studio 2013\Projects\HouseManagement1\HouseManagement1\bin\Debug\HouseManagement1.exe
+c:\users\ullas\documents\visual studio 2013\Projects\HouseManagement1\HouseManagement1\bin\Debug\HouseManagement1.pdb
+c:\users\ullas\documents\visual studio 2013\Projects\HouseManagement1\HouseManagement1\obj\Debug\HouseManagement1.csprojResolveAssemblyReference.cache
+c:\users\ullas\documents\visual studio 2013\Projects\HouseManagement1\HouseManagement1\obj\Debug\HouseManagement1.Form1.resources
+c:\users\ullas\documents\visual studio 2013\Projects\HouseManagement1\HouseManagement1\obj\Debug\HouseManagement1.Properties.Resources.resources
+c:\users\ullas\documents\visual studio 2013\Projects\HouseManagement1\HouseManagement1\obj\Debug\HouseManagement1.csproj.GenerateResource.Cache
+c:\users\ullas\documents\visual studio 2013\Projects\HouseManagement1\HouseManagement1\obj\Debug\HouseManagement1.exe
+c:\users\ullas\documents\visual studio 2013\Projects\HouseManagement1\HouseManagement1\obj\Debug\HouseManagement1.pdb

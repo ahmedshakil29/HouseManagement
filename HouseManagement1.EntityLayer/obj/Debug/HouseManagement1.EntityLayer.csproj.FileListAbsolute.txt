@@ -1,0 +1,14 @@
+E:\HouseManagement1\HouseManagement1.EntityLayer\bin\Debug\HouseManagement1.EntityLayer.dll
+E:\HouseManagement1\HouseManagement1.EntityLayer\bin\Debug\HouseManagement1.EntityLayer.pdb
+E:\HouseManagement1\HouseManagement1.EntityLayer\obj\Debug\HouseManagement1.EntityLayer.csprojResolveAssemblyReference.cache
+E:\HouseManagement1\HouseManagement1.EntityLayer\obj\Debug\HouseManagement1.EntityLayer.dll
+E:\HouseManagement1\HouseManagement1.EntityLayer\obj\Debug\HouseManagement1.EntityLayer.pdb
+E:\HouseManagement1\HouseManagement1.EntityLayer\bin\Debug\HouseManagement1.DataLayer.dll
+E:\HouseManagement1\HouseManagement1.EntityLayer\bin\Debug\HouseManagement1.DataLayer.pdb
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.EntityLayer\bin\Debug\HouseManagement1.EntityLayer.dll
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.EntityLayer\bin\Debug\HouseManagement1.EntityLayer.pdb
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.EntityLayer\bin\Debug\HouseManagement1.DataLayer.dll
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.EntityLayer\bin\Debug\HouseManagement1.DataLayer.pdb
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.EntityLayer\obj\Debug\HouseManagement1.EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.EntityLayer\obj\Debug\HouseManagement1.EntityLayer.dll
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.EntityLayer\obj\Debug\HouseManagement1.EntityLayer.pdb

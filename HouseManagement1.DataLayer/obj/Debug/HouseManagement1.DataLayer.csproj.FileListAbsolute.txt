@@ -1,0 +1,15 @@
+c:\users\ullas\documents\visual studio 2013\Projects\HouseManagement1\HouseManagement1.DataLayer\obj\Debug\HouseManagement1.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ullas\Documents\Visual Studio 2013\Projects\HouseManagement1\HouseManagement1.DataLayer\bin\Debug\HouseManagement1.DataLayer.dll
+C:\Users\Ullas\Documents\Visual Studio 2013\Projects\HouseManagement1\HouseManagement1.DataLayer\bin\Debug\HouseManagement1.DataLayer.pdb
+C:\Users\Ullas\Documents\Visual Studio 2013\Projects\HouseManagement1\HouseManagement1.DataLayer\obj\Debug\HouseManagement1.DataLayer.dll
+C:\Users\Ullas\Documents\Visual Studio 2013\Projects\HouseManagement1\HouseManagement1.DataLayer\obj\Debug\HouseManagement1.DataLayer.pdb
+E:\HouseManagement1\HouseManagement1.DataLayer\bin\Debug\HouseManagement1.DataLayer.dll
+E:\HouseManagement1\HouseManagement1.DataLayer\bin\Debug\HouseManagement1.DataLayer.pdb
+E:\HouseManagement1\HouseManagement1.DataLayer\obj\Debug\HouseManagement1.DataLayer.csprojResolveAssemblyReference.cache
+E:\HouseManagement1\HouseManagement1.DataLayer\obj\Debug\HouseManagement1.DataLayer.dll
+E:\HouseManagement1\HouseManagement1.DataLayer\obj\Debug\HouseManagement1.DataLayer.pdb
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.DataLayer\bin\Debug\HouseManagement1.DataLayer.dll
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.DataLayer\bin\Debug\HouseManagement1.DataLayer.pdb
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.DataLayer\obj\Debug\HouseManagement1.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.DataLayer\obj\Debug\HouseManagement1.DataLayer.dll
+C:\Users\Ullas\Desktop\HouseManagement1\HouseManagement1.DataLayer\obj\Debug\HouseManagement1.DataLayer.pdb
